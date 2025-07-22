@@ -15,19 +15,19 @@ A simple console-based Java project that simulates an online reservation system.
 ## 📸 Output Screenshots
 
 ### 🔐 User Registration
-![Register](https://github.com/aishricode/OnlineBookingSystem/blob/main/register.png)
+![Register](https://github.com/aishricode/OnlineBookingSystem/blob/main/register.png?raw=true)
 
 ### 🔑 User Login
-![Login](https://github.com/aishricode/OnlineBookingSystem/blob/main/login.png)
+![Login](https://github.com/aishricode/OnlineBookingSystem/blob/main/login.png?raw=true)
 
 ### ✅ Booking Success
-![Booking](https://github.com/aishricode/OnlineBookingSystem/blob/main/booking_success.png)
+![Booking](https://github.com/aishricode/OnlineBookingSystem/blob/main/booking_success.png?raw=true)
 
-### 📋 View Bookings
-![ViewBookings](https://github.com/aishricode/OnlineBookingSystem/blob/main/view_bookings.png)
+### 📄 View Bookings
+![ViewBookings](https://github.com/aishricode/OnlineBookingSystem/blob/main/view_bookings.png?raw=true)
 
 ### ❌ Cancel Booking
-![Cancel](https://github.com/aishricode/OnlineBookingSystem/blob/main/cancel_booking.png)
+![Cancel](https://github.com/aishricode/OnlineBookingSystem/blob/main/cancel_booking.png?raw=true)
 
 ---
 
